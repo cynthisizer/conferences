@@ -84,4 +84,6 @@ TBD
 ## Other Noteworthy Conferences
 ### [Women In Product](https://www.womenpm.org/)
 ### [Grace Hopper](https://ghc.anitab.org/)
+### [Women in Tech](https://impactflow.com/event/wits-midatlantic-2019-9509)
+
 
