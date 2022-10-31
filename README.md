@@ -56,8 +56,26 @@ All conferences listed give free admittance to their presenters to the conferenc
 - Average cost of attending: ~$700
 
 ## Development
-TBD
+### [QCon San Francisco](https://qconsf.com/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- Average cost of attending: $3000-$5000
+- Other tidbits:
+  - This conference is geared towards Senior Developers and Architects
 
+### [QCon London](https://qconlondon.com/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- Average cost of attending: $3000-$5000
+- Other tidbits:
+  - This conference is geared towards Senior Developers and Architects
+
+### [QCon Plus](https://plus.qconferences.com/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Online conference
+- Average cost of attending: $549-$599
+- Other tidbits:
+  - This conference is geared towards Senior Developers and Architects
 
 ## Testing
 ### [TestBash](https://www.ministryoftesting.com/testbash)
