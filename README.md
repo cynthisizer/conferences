@@ -56,8 +56,8 @@ All conferences listed give free admittance to their presenters to the conferenc
 - Average cost of attending: ~$700
 
 ## Development
-TBD
-
+### [Clojure/conj](http://2019.clojure-conj.org/)
+- Average cost of attending: ~$450
 
 ## Testing
 ### [TestBash](https://www.ministryoftesting.com/testbash)
@@ -80,6 +80,21 @@ TBD
 - Do they help pay for traveling for presenters? As needed
 - Average cost of attending: ~$1300 - ~$1700
 
+
+## Machine Learning and Data Science
+### [AnacondaCon](https://anacondacon.io/)
+### [SciPy](https://www.scipy2022.scipy.org/)
+### [PyData](https://pydata.org/miami2022/)
+### [NeurIPS](https://nips.cc/)
+- Average cost of attending:
+  - Conference Sessions: $550-650
+  - Workshops: $450-550
+### [ICLR](https://iclr.cc/)
+### [MLSys](https://mlsys.org/)
+### [CVPR](https://cvpr2022.thecvf.com/)
+
+### [AutoML](https://automl.cc/)
+- Average cost of attending: $450
 
 ## Other Noteworthy Conferences
 ### [Women In Product](https://www.womenpm.org/)
