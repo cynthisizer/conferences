@@ -23,6 +23,11 @@ All conferences listed give free admittance to their presenters to the conferenc
 - Do they help pay for traveling for presenters? On need basis
 - Average cost of attending: $500 - ~$4K
 
+### [InflectraCon](https://www.inflectracon.com/)
+- Do they pay their presenters? Yes
+- Do they help pay for traveling for presenters? Yes
+- Average cost of attending: ~$550 - $900
+
 ### [Velocity Conference](https://conferences.oreilly.com/velocity/vl-ca)
 - Do they pay their presenters? Keynotes
 - Do they help pay for traveling for presenters? Unknown
@@ -74,6 +79,11 @@ TBD
 - Do they pay their presenters? Yes
 - Do they help pay for traveling for presenters? As needed
 - Average cost of attending: ~$700 - $1000
+
+### [InflectraCon](https://www.inflectracon.com/)
+- Do they pay their presenters? Yes
+- Do they help pay for traveling for presenters? Yes
+- Average cost of attending: ~$550 - $900
 
 ### [ConTest](https://contest-nyc.testmastersacademy.org/)
 - Do they pay their presenters? Keynote
