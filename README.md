@@ -23,6 +23,11 @@ All conferences listed give free admittance to their presenters to the conferenc
 - Do they help pay for traveling for presenters? On need basis
 - Average cost of attending: $500 - ~$4K
 
+### [InflectraCon](https://www.inflectracon.com/)
+- Do they pay their presenters? Yes
+- Do they help pay for traveling for presenters? Yes
+- Average cost of attending: ~$550 - $900
+
 ### [Velocity Conference](https://conferences.oreilly.com/velocity/vl-ca)
 - Do they pay their presenters? Keynotes
 - Do they help pay for traveling for presenters? Unknown
@@ -56,8 +61,30 @@ All conferences listed give free admittance to their presenters to the conferenc
 - Average cost of attending: ~$700
 
 ## Development
+
 ### [Clojure/conj](http://2019.clojure-conj.org/)
 - Average cost of attending: ~$450
+
+### [QCon San Francisco](https://qconsf.com/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- Average cost of attending: $3000-$5000
+- Other tidbits:
+  - This conference is geared towards Senior Developers and Architects
+
+### [QCon London](https://qconlondon.com/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- Average cost of attending: $3000-$5000
+- Other tidbits:
+  - This conference is geared towards Senior Developers and Architects
+
+### [QCon Plus](https://plus.qconferences.com/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Online conference
+- Average cost of attending: $549-$599
+- Other tidbits:
+  - This conference is geared towards Senior Developers and Architects
 
 ## Testing
 ### [TestBash](https://www.ministryoftesting.com/testbash)
@@ -75,6 +102,11 @@ All conferences listed give free admittance to their presenters to the conferenc
 - Do they help pay for traveling for presenters? As needed
 - Average cost of attending: ~$700 - $1000
 
+### [InflectraCon](https://www.inflectracon.com/)
+- Do they pay their presenters? Yes
+- Do they help pay for traveling for presenters? Yes
+- Average cost of attending: ~$550 - $900
+
 ### [ConTest](https://contest-nyc.testmastersacademy.org/)
 - Do they pay their presenters? Keynote
 - Do they help pay for traveling for presenters? As needed
@@ -83,15 +115,45 @@ All conferences listed give free admittance to their presenters to the conferenc
 
 ## Machine Learning and Data Science
 ### [AnacondaCon](https://anacondacon.io/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
+
 ### [SciPy](https://www.scipy2022.scipy.org/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
+
 ### [PyData](https://pydata.org/miami2022/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
+
 ### [NeurIPS](https://nips.cc/)
 - Average cost of attending:
   - Conference Sessions: $550-650
   - Workshops: $450-550
+
 ### [ICLR](https://iclr.cc/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending?c TBD
+- Any other tidbits
+
 ### [MLSys](https://mlsys.org/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
+
 ### [CVPR](https://cvpr2022.thecvf.com/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
 
 ### [AutoML](https://automl.cc/)
 - Average cost of attending: $450
