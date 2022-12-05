@@ -61,6 +61,10 @@ All conferences listed give free admittance to their presenters to the conferenc
 - Average cost of attending: ~$700
 
 ## Development
+
+### [Clojure/conj](http://2019.clojure-conj.org/)
+- Average cost of attending: ~$450
+
 ### [QCon San Francisco](https://qconsf.com/)
 - Do they pay their presenters? Unknown
 - Do they help pay for traveling for presenters? Unknown
@@ -108,6 +112,51 @@ All conferences listed give free admittance to their presenters to the conferenc
 - Do they help pay for traveling for presenters? As needed
 - Average cost of attending: ~$1300 - ~$1700
 
+
+## Machine Learning and Data Science
+### [AnacondaCon](https://anacondacon.io/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
+
+### [SciPy](https://www.scipy2022.scipy.org/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
+
+### [PyData](https://pydata.org/miami2022/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
+
+### [NeurIPS](https://nips.cc/)
+- Average cost of attending:
+  - Conference Sessions: $550-650
+  - Workshops: $450-550
+
+### [ICLR](https://iclr.cc/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending?c TBD
+- Any other tidbits
+
+### [MLSys](https://mlsys.org/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
+
+### [CVPR](https://cvpr2022.thecvf.com/)
+- Do they pay their presenters? Unknown
+- Do they help pay for traveling for presenters? Unknown
+- What's the average cost of attending? TBD
+- Any other tidbits
+
+### [AutoML](https://automl.cc/)
+- Average cost of attending: $450
 
 ## Other Noteworthy Conferences
 ### [Women In Product](https://www.womenpm.org/)
